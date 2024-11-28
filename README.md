@@ -1,6 +1,6 @@
 # ROICtrl
 
-**[Arxiv 2024] - [ROICtrl: Boosting Instance Control for Visual Generation](https://arxiv.org/abs/2312.02087)**
+**[Arxiv 2024] - [ROICtrl: Boosting Instance Control for Visual Generation](https://arxiv.org/abs/2411.17949)**
 <br/>
 
 [Yuchao Gu](https://ycgu.site/),
@@ -15,7 +15,7 @@ Yunfan Ye,
 
 Showlab, National University of Singapore; GenAI, Meta; MIT
 
-[![arXiv](https://img.shields.io/badge/arXiv-2312.02087-b31b1b.svg)](https://arxiv.org/abs/2312.02087)
+[![arXiv](https://img.shields.io/badge/arXiv-2411.17949-b31b1b.svg)](https://arxiv.org/abs/2411.17949)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://roictrl.github.io/)
 
 ![alt text](assets/teaser.png)
@@ -59,7 +59,7 @@ If you find this repository useful in your work, consider citing the following p
 @article{gu2024roictrl,
     title={ROICtrl: Boosting Instance Control for Visual Generation},
     author={Gu, Yuchao and Zhou, Yipin and Ye, Yunfan and Nie, Yixin and Yu, Licheng and Ma, Pingchuan and Lin, Kevin Qinghong and Shou, Mike Zheng},
-    journal={arXiv preprint arXiv:2411.xxxxx},
+    journal={arXiv preprint arXiv:2411.17949},
     year={2024}
 }
 
