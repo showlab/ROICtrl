@@ -17,6 +17,14 @@ Showlab, National University of Singapore; GenAI, Meta; MIT
 
 [![arXiv](https://img.shields.io/badge/arXiv-2411.17949-b31b1b.svg)](https://arxiv.org/abs/2411.17949)
 [![Project Page](https://img.shields.io/badge/Project-Website-orange)](https://roictrl.github.io/)
+<a href="https://drive.google.com/drive/folders/1bXqskly5kER_bJ47n9CwH9NQEkMHs3zi?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
+
+
+## Update
+
+- [ ] Training code will released in two weeks.
+- [x] [2024/12/10] Inference Demo and Model Released.
+
 
 ![alt text](assets/teaser.png)
 
@@ -25,27 +33,22 @@ Showlab, National University of Singapore; GenAI, Meta; MIT
 
 For more see the [project webpage](https://roictrl.github.io/).
 
-## Application and Turtorial
+## Demo and Turtorial
 
-**[Standalone Operation Test]** - ROI-Unpool [Colab]
+**[Standalone Operation Test]** - ROI-Unpool <a href="https://colab.research.google.com/drive/1bWFs4E7mztjEZLelxXMGiZ5dkQdBecOI?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a> 
 ![alt text](assets/method_comp.png)
 
-**[Application]** - Use ROICtrl with various community-finetuned models. [Colab]
+**[Application]** - Use ROICtrl with various community-finetuned models. <a href="https://colab.research.google.com/drive/13gz_MmeQtvLAzJydkDIYmHyzHp5KZB-J?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 ![alt text](assets/2_model_compatible.png)
 
-**[Application]** - Use ROICtrl with spatial-based addons (T2I-Adapter, ControlNet). [Colab]
+**[Application]** - Use ROICtrl with spatial-based addons (T2I-Adapter, ControlNet). <a href="https://colab.research.google.com/drive/1HW1JsLxTjdZ6XnieksgUVZidCbU7fRCZ?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 ![alt text](assets/3_compatible_t2iadapter.png)
 
-**[Application]** - Use ROICtrl with embedding-based addons (ED-LoRA, IP-Adapter). [Colab]
+**[Application]** - Use ROICtrl with embedding-based addons (ED-LoRA <a href="https://colab.research.google.com/drive/1Q3MD0PsyCHm9QsUmcqr0WBB8JTzFa2nW?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>, IP-Adapter <a href="https://colab.research.google.com/drive/12uKPGgCygTQG4i3Hh8XJhdfSUONhgDMg?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>).
 ![alt text](assets/4_compatible_identity.png)
 
-**[Application]** - Continuous generation with local change. [Colab]
+**[Application]** - Continuous generation with local change. <a href="https://colab.research.google.com/drive/1288R1LAHkvl76BHtGuLKHusz9wqTycJU?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 ![alt text](assets/5_continue_generation.png)
-
-## Update
-
-- [ ] Code and demo will be released in two weeks.
-
 
 ## Disclaimer
 
