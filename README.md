@@ -23,7 +23,7 @@ Showlab, National University of Singapore; GenAI, Meta; MIT
 ## Update
 
 - [ ] Training code will released in two weeks.
-- [x] [2024/12/10] Inference Demo and Model Released.
+- [x] [2024/12/10] Inference demo and model released.
 
 
 ![alt text](assets/teaser.png)
