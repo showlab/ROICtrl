@@ -20,18 +20,17 @@ Showlab, National University of Singapore; GenAI, Meta; MIT
 <a href="https://drive.google.com/drive/folders/1bXqskly5kER_bJ47n9CwH9NQEkMHs3zi?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="google colab logo"></a>
 
 
-## Update
-
-- [ ] Training code will released in two weeks.
-- [x] [2024/12/10] Inference demo and model released.
-
-
 ![alt text](assets/teaser.png)
 
 **ROICtrl** can extend existing diffusion models and their add-ons (e.g., ControlNet, T2I-Adapter, IP-Adapter, ED-LoRA) to support controllable multi-instance generation. 
 >Natural language often struggles to accurately associate positional and attribute information with multiple instances, which limits current text-based visual generation models to simpler compositions featuring only a few dominant instances. To address this limitation, this work enhances diffusion models by introducing regional instance control, where each instance is governed by a bounding box paired with a free-form caption. Previous methods in this area typically rely on implicit position encoding or explicit attention masks to separate regions of interest (ROIs), resulting in either inaccurate coordinate injection or large computational overhead. Inspired by ROI-Align in object detection, we introduce a complementary operation called ROI-Unpool. Together, ROI-Align and ROI-Unpool enable explicit, efficient, and accurate ROI manipulation on high-resolution feature maps for visual generation. Building on ROI-Unpool, we propose ROICtrl, an adapter for pretrained diffusion models that enables precise regional instance control. ROICtrl is compatible with community-finetuned diffusion models, as well as with existing spatial-based add-ons (\eg, ControlNet, T2I-Adapter) and embedding-based add-ons (\eg, IP-Adapter, ED-LoRA), extending their applications to multi-instance generation. Experiments show that ROICtrl achieves superior performance in regional instance control while significantly reducing computational costs.
 
 For more see the [project webpage](https://roictrl.github.io/).
+
+## Update
+
+- [ ] Training code will released in two weeks.
+- [x] [2024/12/10] Inference demo and model released.
 
 ## Demo and Turtorial
 
