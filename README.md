@@ -1,6 +1,6 @@
 # ROICtrl
 
-**[Arxiv 2024] - [ROICtrl: Boosting Instance Control for Visual Generation](https://arxiv.org/abs/2411.17949)**
+**[CVPR 2025] - [ROICtrl: Boosting Instance Control for Visual Generation](https://arxiv.org/abs/2411.17949)**
 <br/>
 
 [Yuchao Gu](https://ycgu.site/),
@@ -29,7 +29,8 @@ For more see the [project webpage](https://roictrl.github.io/).
 
 ## Update
 
-- [ ] Training code will released in two weeks.
+- [ ] Training code will released in Mar. 2025.
+- [x] [2025/02/28] ROICtrl is accepted by CVPR 2025.
 - [x] [2024/12/10] Inference demo and model released.
 
 ## Demo and Turtorial
