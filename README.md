@@ -29,7 +29,6 @@ For more see the [project webpage](https://roictrl.github.io/).
 
 ## Update
 
-- [ ] Training code will released in Mar. 2025.
 - [x] [2025/02/28] ROICtrl is accepted by CVPR 2025.
 - [x] [2024/12/10] Inference demo and model released.
 
